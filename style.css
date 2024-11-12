@@ -1,0 +1,16 @@
+/* Apply to everything */
+html, body {
+    font-family: "Sour Gummy", sans-serif;
+    background-color: rgb(238, 238, 238);
+
+}
+
+#heading-one {
+    background-color:rgb(108, 201, 255);
+    color: rgb(57, 107, 136);
+}
+
+#list-container {
+    background-color: rgb(200, 160, 255);
+    border: 1px rgb(136, 109, 175); 
+}
